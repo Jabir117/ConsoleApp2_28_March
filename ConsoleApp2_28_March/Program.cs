@@ -12,6 +12,7 @@ namespace ConsoleApp2_28_March
         {
             Console.WriteLine("New line added");
             Console.WriteLine("New line added from Github:");
+            Console.WriteLine("New line added from forked repository-VS");
         }
     }
 }
