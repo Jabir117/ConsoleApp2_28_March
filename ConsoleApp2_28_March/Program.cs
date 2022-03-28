@@ -10,6 +10,7 @@ namespace ConsoleApp2_28_March
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("New line added");
         }
     }
 }
